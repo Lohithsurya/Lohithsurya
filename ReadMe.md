@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm currently working on an app which <br>helps reduce response time for EMS vechiles<br><br>I'm would like collab with any project with ML and algorithms.<br><br>I'm been an intern in Start-up Company called Bolt-code<br>
+I'm Lohith, a 3rd year computer science student <br>
+I'm currently working on an app which helps reduce response time for EMS vechiles<br>
+I would like collab with any project so feel free to reach out to me through linkedin.
+<br>I'm been an intern in Start-up Company called Bolt-code<br>
 
 
 ## 🌐 Socials:
